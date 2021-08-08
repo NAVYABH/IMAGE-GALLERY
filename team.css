@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(126, 219, 255);
+    background-image: url("../images/team.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #fff;
+    text-align: left;
+}
